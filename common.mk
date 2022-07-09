@@ -305,7 +305,6 @@ PRODUCT_PACKAGES += \
     FrameworksResTarget \
     OPlusFrameworksResCommon \
     OPlusSettingsResCommon \
-    OPlusWifiResCommon \
     WifiResTarget
 
 # OnePlus Settings
